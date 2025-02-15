@@ -7,10 +7,17 @@
  - Easy to integrate and use
  - You can choose symbols of password
 
+### Technologies Used:
+ - HTML5
+ - CSS3
+ - JavaScript
+
 ### Installation
 Clone the repository:
-git clone https://github.com/timdvd/pass_gen_widgett.git
+You may clone repository with this command: git clone https://github.com/timdvd/pass_gen_widgett.git
 Include the widget in your project.
+
+### Preview: https://timdvd.github.io/calendar_widget/
 
 ### Usage
 Embed the widget on your website and configure it as needed.

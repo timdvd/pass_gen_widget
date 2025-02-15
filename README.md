@@ -11,16 +11,16 @@
  - HTML5
  - CSS3
  - JavaScript
+   
+### Usage
+Embed the widget on your website and configure it as needed.
 
 ### Installation
 Clone the repository:
 You may clone repository with this command: git clone https://github.com/timdvd/pass_gen_widgett.git
 Include the widget in your project.
 
-### Preview: https://timdvd.github.io/calendar_widget/
-
-### Usage
-Embed the widget on your website and configure it as needed.
+Preview: https://timdvd.github.io/pass_gen_widget/
 
 ### Screenshots
 ![Screenshot 2025-02-15 125133](https://github.com/user-attachments/assets/28eaf339-6fb8-4d20-998c-fbb47f686b66)
